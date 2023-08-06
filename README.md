@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aamadmi3439
+- 👋 Hi, I’m  CHINMAY PAREEK  -@aamadmi3439
 - 👀 I’m interested in  AI , MACHINE LEARNING AND DSA
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on OPEN SOURCE PROJECTS
